@@ -429,6 +429,8 @@
     <property name="title">
      <string>Window</string>
     </property>
+    <addaction name="actionShowQueue"/>
+    <addaction name="actionOpenMessageDialog"/>
    </widget>
    <widget class="QMenu" name="menuHelp">
     <property name="title">
@@ -1298,6 +1300,16 @@ color:rgb(0,0,0);</string>
    </property>
    <property name="menuRole">
     <enum>QAction::MenuRole::NoRole</enum>
+   </property>
+  </action>
+  <action name="actionShowQueue">
+   <property name="text">
+    <string>Queue</string>
+   </property>
+  </action>
+  <action name="actionOpenMessageDialog">
+   <property name="text">
+    <string>Add Message</string>
    </property>
   </action>
  </widget>
