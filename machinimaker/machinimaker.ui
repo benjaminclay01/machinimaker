@@ -370,7 +370,7 @@
      <verstretch>0</verstretch>
     </sizepolicy>
    </property>
-   <layout class="QHBoxLayout" name="horizontalLayout" stretch="">
+   <layout class="QHBoxLayout" name="horizontalLayout">
     <property name="spacing">
      <number>0</number>
     </property>
@@ -519,6 +519,12 @@
     <layout class="QVBoxLayout" name="verticalLayout_2">
      <item>
       <widget class="QTextEdit" name="textDebugger">
+       <property name="font">
+        <font>
+         <family>Segoe UI This</family>
+         <pointsize>10</pointsize>
+        </font>
+       </property>
        <property name="styleSheet">
         <string notr="true">color:rgb(0,0,0);
 background-color: rgb(255, 255, 255);</string>
@@ -1133,9 +1139,15 @@ color: rgb(0, 0, 0);</string>
     <number>2</number>
    </attribute>
    <widget class="QWidget" name="dockWidgetContents_3">
-    <layout class="QVBoxLayout" name="verticalLayout" stretch="3,1">
+    <layout class="QVBoxLayout" name="verticalLayout" stretch="4,1">
      <item>
       <widget class="QTextBrowser" name="textBrowser">
+       <property name="font">
+        <font>
+         <family>Segoe UI This</family>
+         <pointsize>10</pointsize>
+        </font>
+       </property>
        <property name="styleSheet">
         <string notr="true">background-color:rgb(255,255,255);
 color:rgb(0,0,0);</string>
@@ -1143,10 +1155,28 @@ color:rgb(0,0,0);</string>
       </widget>
      </item>
      <item>
-      <widget class="QTextEdit" name="textEdit">
+      <widget class="QLineEdit" name="lineEdit">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <property name="font">
+        <font>
+         <family>Segoe UI This</family>
+         <pointsize>10</pointsize>
+        </font>
+       </property>
        <property name="styleSheet">
         <string notr="true">background-color:rgb(255,255,255);
 color:rgb(0,0,0);</string>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignmentFlag::AlignLeading|Qt::AlignmentFlag::AlignLeft|Qt::AlignmentFlag::AlignTop</set>
+       </property>
+       <property name="dragEnabled">
+        <bool>false</bool>
        </property>
       </widget>
      </item>

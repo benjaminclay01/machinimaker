@@ -17,6 +17,9 @@ public:
     machinimaker(QWidget *parent = nullptr);
     ~machinimaker();
 
+private slots:
+    void on_Text_Entered();
+
 private:
     Ui::machinimaker *ui;
 };
