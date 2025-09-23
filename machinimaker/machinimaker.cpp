@@ -30,6 +30,7 @@ machinimaker::machinimaker(QWidget *parent)
     connect(ui->actionNew, &QAction::triggered, this, &machinimaker::openMessageDialog);
     connect(ui->actionopen, &QAction::triggered, this, &machinimaker::on_actionShowQueue_Triggered);
     connect(m_nextMessageShortcut, &QShortcut::activated, this, &machinimaker::printQueuedMessage);
+    connect(ui->actioncut, &QAction::triggered, this, &machinimaker::clearWindow);
 }
 
 machinimaker::~machinimaker()
@@ -75,4 +76,9 @@ void machinimaker::printQueuedMessage()
         // Append the formatted text to the text browser
         ui->textBrowser->append(output);
     }
+}
+
+void machinimaker::clearWindow(){
+    ui->textBrowser->clear();
+    MessageQueue::instance()->clearQueue();
 }

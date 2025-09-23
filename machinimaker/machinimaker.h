@@ -24,6 +24,7 @@ private slots:
     void printQueuedMessage();
     void on_Text_Entered();
     void on_actionShowQueue_Triggered();
+    void clearWindow();
 private:
     Ui::machinimaker *ui;
     QueueWindow* m_queueWindow;

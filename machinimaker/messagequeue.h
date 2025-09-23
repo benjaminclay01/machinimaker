@@ -13,6 +13,7 @@ public:
     static MessageQueue* instance();
 
     void addMessage(const Message& message);
+    void clearQueue();
     bool popMessage(Message& message);
     std::queue<Message> getQueue() const;
 

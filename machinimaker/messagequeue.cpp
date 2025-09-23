@@ -29,3 +29,8 @@ bool MessageQueue::popMessage(Message& message) {
 std::queue<Message> MessageQueue::getQueue() const {
     return m_queue;
 }
+
+void MessageQueue::clearQueue(){
+    std::queue<Message> empty;
+    m_queue.swap(empty);
+}
