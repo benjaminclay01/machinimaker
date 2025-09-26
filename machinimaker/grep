@@ -1,0 +1,1648 @@
+GNU Make 4.3
+Built for x86_64-pc-linux-gnu
+Copyright (C) 1988-2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Reading makefiles...
+Reading makefile 'Makefile'...
+Updating makefiles....
+ Considering target file 'Makefile'.
+   Considering target file 'machinimaker.pro'.
+    Looking for an implicit rule for 'machinimaker.pro'.
+    Trying pattern rule with stem 'machinimaker.pro'.
+    Trying implicit prerequisite 'machinimaker.pro,v'.
+    Trying pattern rule with stem 'machinimaker.pro'.
+    Trying implicit prerequisite 'RCS/machinimaker.pro,v'.
+    Trying pattern rule with stem 'machinimaker.pro'.
+    Trying implicit prerequisite 'RCS/machinimaker.pro'.
+    Trying pattern rule with stem 'machinimaker.pro'.
+    Trying implicit prerequisite 's.machinimaker.pro'.
+    Trying pattern rule with stem 'machinimaker.pro'.
+    Trying implicit prerequisite 'SCCS/s.machinimaker.pro'.
+    No implicit rule found for 'machinimaker.pro'.
+    Finished prerequisites of target file 'machinimaker.pro'.
+   No recipe for 'machinimaker.pro' and no prerequisites actually changed.
+   No need to remake target 'machinimaker.pro'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/qmake.conf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/qmake.conf'.
+    Trying pattern rule with stem 'qmake.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/qmake.conf,v'.
+    Trying pattern rule with stem 'qmake.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/RCS/qmake.conf,v'.
+    Trying pattern rule with stem 'qmake.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/RCS/qmake.conf'.
+    Trying pattern rule with stem 'qmake.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/s.qmake.conf'.
+    Trying pattern rule with stem 'qmake.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/SCCS/s.qmake.conf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/qmake.conf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/qmake.conf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/qmake.conf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/qmake.conf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_pre.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_pre.prf'.
+    Trying pattern rule with stem 'spec_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_pre.prf,v'.
+    Trying pattern rule with stem 'spec_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/spec_pre.prf,v'.
+    Trying pattern rule with stem 'spec_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/spec_pre.prf'.
+    Trying pattern rule with stem 'spec_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.spec_pre.prf'.
+    Trying pattern rule with stem 'spec_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.spec_pre.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_pre.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_pre.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_pre.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_pre.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qdevice.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qdevice.pri'.
+    Trying pattern rule with stem 'qdevice.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qdevice.pri,v'.
+    Trying pattern rule with stem 'qdevice.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/RCS/qdevice.pri,v'.
+    Trying pattern rule with stem 'qdevice.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/RCS/qdevice.pri'.
+    Trying pattern rule with stem 'qdevice.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/s.qdevice.pri'.
+    Trying pattern rule with stem 'qdevice.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/SCCS/s.qdevice.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qdevice.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qdevice.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qdevice.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qdevice.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/device_config.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/device_config.prf'.
+    Trying pattern rule with stem 'device_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/device_config.prf,v'.
+    Trying pattern rule with stem 'device_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/device_config.prf,v'.
+    Trying pattern rule with stem 'device_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/device_config.prf'.
+    Trying pattern rule with stem 'device_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.device_config.prf'.
+    Trying pattern rule with stem 'device_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.device_config.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/device_config.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/device_config.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/device_config.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/device_config.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/sanitize.conf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/sanitize.conf'.
+    Trying pattern rule with stem 'sanitize.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/sanitize.conf,v'.
+    Trying pattern rule with stem 'sanitize.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/sanitize.conf,v'.
+    Trying pattern rule with stem 'sanitize.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/sanitize.conf'.
+    Trying pattern rule with stem 'sanitize.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/s.sanitize.conf'.
+    Trying pattern rule with stem 'sanitize.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/SCCS/s.sanitize.conf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/sanitize.conf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/sanitize.conf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/sanitize.conf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/sanitize.conf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/gcc-base.conf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/gcc-base.conf'.
+    Trying pattern rule with stem 'gcc-base.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/gcc-base.conf,v'.
+    Trying pattern rule with stem 'gcc-base.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/gcc-base.conf,v'.
+    Trying pattern rule with stem 'gcc-base.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/gcc-base.conf'.
+    Trying pattern rule with stem 'gcc-base.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/s.gcc-base.conf'.
+    Trying pattern rule with stem 'gcc-base.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/SCCS/s.gcc-base.conf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/gcc-base.conf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/gcc-base.conf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/gcc-base.conf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/gcc-base.conf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-base.conf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-base.conf'.
+    Trying pattern rule with stem 'g++-base.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-base.conf,v'.
+    Trying pattern rule with stem 'g++-base.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/g++-base.conf,v'.
+    Trying pattern rule with stem 'g++-base.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/g++-base.conf'.
+    Trying pattern rule with stem 'g++-base.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/s.g++-base.conf'.
+    Trying pattern rule with stem 'g++-base.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/SCCS/s.g++-base.conf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-base.conf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-base.conf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-base.conf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-base.conf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows_vulkan_sdk.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows_vulkan_sdk.prf'.
+    Trying pattern rule with stem 'windows_vulkan_sdk.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows_vulkan_sdk.prf,v'.
+    Trying pattern rule with stem 'windows_vulkan_sdk.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/RCS/windows_vulkan_sdk.prf,v'.
+    Trying pattern rule with stem 'windows_vulkan_sdk.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/RCS/windows_vulkan_sdk.prf'.
+    Trying pattern rule with stem 'windows_vulkan_sdk.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/s.windows_vulkan_sdk.prf'.
+    Trying pattern rule with stem 'windows_vulkan_sdk.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/SCCS/s.windows_vulkan_sdk.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows_vulkan_sdk.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows_vulkan_sdk.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows_vulkan_sdk.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows_vulkan_sdk.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-vulkan.conf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-vulkan.conf'.
+    Trying pattern rule with stem 'windows-vulkan.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-vulkan.conf,v'.
+    Trying pattern rule with stem 'windows-vulkan.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/windows-vulkan.conf,v'.
+    Trying pattern rule with stem 'windows-vulkan.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/windows-vulkan.conf'.
+    Trying pattern rule with stem 'windows-vulkan.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/s.windows-vulkan.conf'.
+    Trying pattern rule with stem 'windows-vulkan.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/SCCS/s.windows-vulkan.conf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-vulkan.conf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-vulkan.conf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-vulkan.conf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-vulkan.conf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-win32.conf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-win32.conf'.
+    Trying pattern rule with stem 'g++-win32.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-win32.conf,v'.
+    Trying pattern rule with stem 'g++-win32.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/g++-win32.conf,v'.
+    Trying pattern rule with stem 'g++-win32.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/g++-win32.conf'.
+    Trying pattern rule with stem 'g++-win32.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/s.g++-win32.conf'.
+    Trying pattern rule with stem 'g++-win32.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/SCCS/s.g++-win32.conf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-win32.conf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-win32.conf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-win32.conf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-win32.conf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-desktop.conf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-desktop.conf'.
+    Trying pattern rule with stem 'windows-desktop.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-desktop.conf,v'.
+    Trying pattern rule with stem 'windows-desktop.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/windows-desktop.conf,v'.
+    Trying pattern rule with stem 'windows-desktop.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/RCS/windows-desktop.conf'.
+    Trying pattern rule with stem 'windows-desktop.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/s.windows-desktop.conf'.
+    Trying pattern rule with stem 'windows-desktop.conf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/SCCS/s.windows-desktop.conf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-desktop.conf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-desktop.conf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-desktop.conf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-desktop.conf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qconfig.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qconfig.pri'.
+    Trying pattern rule with stem 'qconfig.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qconfig.pri,v'.
+    Trying pattern rule with stem 'qconfig.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/RCS/qconfig.pri,v'.
+    Trying pattern rule with stem 'qconfig.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/RCS/qconfig.pri'.
+    Trying pattern rule with stem 'qconfig.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/s.qconfig.pri'.
+    Trying pattern rule with stem 'qconfig.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/SCCS/s.qconfig.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qconfig.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qconfig.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qconfig.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qconfig.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent.pri'.
+    Trying pattern rule with stem 'qt_lib_concurrent.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent.pri,v'.
+    Trying pattern rule with stem 'qt_lib_concurrent.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_concurrent.pri,v'.
+    Trying pattern rule with stem 'qt_lib_concurrent.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_concurrent.pri'.
+    Trying pattern rule with stem 'qt_lib_concurrent.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_concurrent.pri'.
+    Trying pattern rule with stem 'qt_lib_concurrent.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_concurrent.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent_private.pri'.
+    Trying pattern rule with stem 'qt_lib_concurrent_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_concurrent_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_concurrent_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_concurrent_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_concurrent_private.pri'.
+    Trying pattern rule with stem 'qt_lib_concurrent_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_concurrent_private.pri'.
+    Trying pattern rule with stem 'qt_lib_concurrent_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_concurrent_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core.pri'.
+    Trying pattern rule with stem 'qt_lib_core.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core.pri,v'.
+    Trying pattern rule with stem 'qt_lib_core.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_core.pri,v'.
+    Trying pattern rule with stem 'qt_lib_core.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_core.pri'.
+    Trying pattern rule with stem 'qt_lib_core.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_core.pri'.
+    Trying pattern rule with stem 'qt_lib_core.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_core.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core_private.pri'.
+    Trying pattern rule with stem 'qt_lib_core_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_core_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_core_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_core_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_core_private.pri'.
+    Trying pattern rule with stem 'qt_lib_core_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_core_private.pri'.
+    Trying pattern rule with stem 'qt_lib_core_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_core_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_devicediscovery_support_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_devicediscovery_support_private.pri'.
+    Trying pattern rule with stem 'qt_lib_devicediscovery_support_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_devicediscovery_support_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_devicediscovery_support_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_devicediscovery_support_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_devicediscovery_support_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_devicediscovery_support_private.pri'.
+    Trying pattern rule with stem 'qt_lib_devicediscovery_support_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_devicediscovery_support_private.pri'.
+    Trying pattern rule with stem 'qt_lib_devicediscovery_support_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_devicediscovery_support_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_devicediscovery_support_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_devicediscovery_support_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_devicediscovery_support_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_devicediscovery_support_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_entrypoint_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_entrypoint_private.pri'.
+    Trying pattern rule with stem 'qt_lib_entrypoint_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_entrypoint_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_entrypoint_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_entrypoint_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_entrypoint_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_entrypoint_private.pri'.
+    Trying pattern rule with stem 'qt_lib_entrypoint_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_entrypoint_private.pri'.
+    Trying pattern rule with stem 'qt_lib_entrypoint_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_entrypoint_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_entrypoint_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_entrypoint_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_entrypoint_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_entrypoint_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_example_icons_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_example_icons_private.pri'.
+    Trying pattern rule with stem 'qt_lib_example_icons_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_example_icons_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_example_icons_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_example_icons_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_example_icons_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_example_icons_private.pri'.
+    Trying pattern rule with stem 'qt_lib_example_icons_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_example_icons_private.pri'.
+    Trying pattern rule with stem 'qt_lib_example_icons_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_example_icons_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_example_icons_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_example_icons_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_example_icons_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_example_icons_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_examples_asset_downloader_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_examples_asset_downloader_private.pri'.
+    Trying pattern rule with stem 'qt_lib_examples_asset_downloader_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_examples_asset_downloader_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_examples_asset_downloader_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_examples_asset_downloader_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_examples_asset_downloader_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_examples_asset_downloader_private.pri'.
+    Trying pattern rule with stem 'qt_lib_examples_asset_downloader_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_examples_asset_downloader_private.pri'.
+    Trying pattern rule with stem 'qt_lib_examples_asset_downloader_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_examples_asset_downloader_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_examples_asset_downloader_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_examples_asset_downloader_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_examples_asset_downloader_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_examples_asset_downloader_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_fb_support_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_fb_support_private.pri'.
+    Trying pattern rule with stem 'qt_lib_fb_support_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_fb_support_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_fb_support_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_fb_support_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_fb_support_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_fb_support_private.pri'.
+    Trying pattern rule with stem 'qt_lib_fb_support_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_fb_support_private.pri'.
+    Trying pattern rule with stem 'qt_lib_fb_support_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_fb_support_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_fb_support_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_fb_support_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_fb_support_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_fb_support_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui.pri'.
+    Trying pattern rule with stem 'qt_lib_gui.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui.pri,v'.
+    Trying pattern rule with stem 'qt_lib_gui.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_gui.pri,v'.
+    Trying pattern rule with stem 'qt_lib_gui.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_gui.pri'.
+    Trying pattern rule with stem 'qt_lib_gui.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_gui.pri'.
+    Trying pattern rule with stem 'qt_lib_gui.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_gui.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui_private.pri'.
+    Trying pattern rule with stem 'qt_lib_gui_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_gui_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_gui_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_gui_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_gui_private.pri'.
+    Trying pattern rule with stem 'qt_lib_gui_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_gui_private.pri'.
+    Trying pattern rule with stem 'qt_lib_gui_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_gui_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network.pri'.
+    Trying pattern rule with stem 'qt_lib_network.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network.pri,v'.
+    Trying pattern rule with stem 'qt_lib_network.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_network.pri,v'.
+    Trying pattern rule with stem 'qt_lib_network.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_network.pri'.
+    Trying pattern rule with stem 'qt_lib_network.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_network.pri'.
+    Trying pattern rule with stem 'qt_lib_network.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_network.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network_private.pri'.
+    Trying pattern rule with stem 'qt_lib_network_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_network_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_network_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_network_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_network_private.pri'.
+    Trying pattern rule with stem 'qt_lib_network_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_network_private.pri'.
+    Trying pattern rule with stem 'qt_lib_network_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_network_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl.pri'.
+    Trying pattern rule with stem 'qt_lib_opengl.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl.pri,v'.
+    Trying pattern rule with stem 'qt_lib_opengl.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_opengl.pri,v'.
+    Trying pattern rule with stem 'qt_lib_opengl.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_opengl.pri'.
+    Trying pattern rule with stem 'qt_lib_opengl.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_opengl.pri'.
+    Trying pattern rule with stem 'qt_lib_opengl.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_opengl.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl_private.pri'.
+    Trying pattern rule with stem 'qt_lib_opengl_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_opengl_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_opengl_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_opengl_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_opengl_private.pri'.
+    Trying pattern rule with stem 'qt_lib_opengl_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_opengl_private.pri'.
+    Trying pattern rule with stem 'qt_lib_opengl_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_opengl_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets.pri'.
+    Trying pattern rule with stem 'qt_lib_openglwidgets.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets.pri,v'.
+    Trying pattern rule with stem 'qt_lib_openglwidgets.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_openglwidgets.pri,v'.
+    Trying pattern rule with stem 'qt_lib_openglwidgets.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_openglwidgets.pri'.
+    Trying pattern rule with stem 'qt_lib_openglwidgets.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_openglwidgets.pri'.
+    Trying pattern rule with stem 'qt_lib_openglwidgets.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_openglwidgets.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets_private.pri'.
+    Trying pattern rule with stem 'qt_lib_openglwidgets_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_openglwidgets_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_openglwidgets_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_openglwidgets_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_openglwidgets_private.pri'.
+    Trying pattern rule with stem 'qt_lib_openglwidgets_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_openglwidgets_private.pri'.
+    Trying pattern rule with stem 'qt_lib_openglwidgets_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_openglwidgets_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport.pri'.
+    Trying pattern rule with stem 'qt_lib_printsupport.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport.pri,v'.
+    Trying pattern rule with stem 'qt_lib_printsupport.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_printsupport.pri,v'.
+    Trying pattern rule with stem 'qt_lib_printsupport.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_printsupport.pri'.
+    Trying pattern rule with stem 'qt_lib_printsupport.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_printsupport.pri'.
+    Trying pattern rule with stem 'qt_lib_printsupport.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_printsupport.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport_private.pri'.
+    Trying pattern rule with stem 'qt_lib_printsupport_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_printsupport_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_printsupport_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_printsupport_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_printsupport_private.pri'.
+    Trying pattern rule with stem 'qt_lib_printsupport_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_printsupport_private.pri'.
+    Trying pattern rule with stem 'qt_lib_printsupport_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_printsupport_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql.pri'.
+    Trying pattern rule with stem 'qt_lib_sql.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql.pri,v'.
+    Trying pattern rule with stem 'qt_lib_sql.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_sql.pri,v'.
+    Trying pattern rule with stem 'qt_lib_sql.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_sql.pri'.
+    Trying pattern rule with stem 'qt_lib_sql.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_sql.pri'.
+    Trying pattern rule with stem 'qt_lib_sql.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_sql.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql_private.pri'.
+    Trying pattern rule with stem 'qt_lib_sql_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_sql_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_sql_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_sql_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_sql_private.pri'.
+    Trying pattern rule with stem 'qt_lib_sql_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_sql_private.pri'.
+    Trying pattern rule with stem 'qt_lib_sql_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_sql_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testinternals_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testinternals_private.pri'.
+    Trying pattern rule with stem 'qt_lib_testinternals_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testinternals_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_testinternals_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_testinternals_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_testinternals_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_testinternals_private.pri'.
+    Trying pattern rule with stem 'qt_lib_testinternals_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_testinternals_private.pri'.
+    Trying pattern rule with stem 'qt_lib_testinternals_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_testinternals_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testinternals_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testinternals_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testinternals_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testinternals_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib.pri'.
+    Trying pattern rule with stem 'qt_lib_testlib.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib.pri,v'.
+    Trying pattern rule with stem 'qt_lib_testlib.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_testlib.pri,v'.
+    Trying pattern rule with stem 'qt_lib_testlib.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_testlib.pri'.
+    Trying pattern rule with stem 'qt_lib_testlib.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_testlib.pri'.
+    Trying pattern rule with stem 'qt_lib_testlib.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_testlib.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib_private.pri'.
+    Trying pattern rule with stem 'qt_lib_testlib_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_testlib_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_testlib_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_testlib_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_testlib_private.pri'.
+    Trying pattern rule with stem 'qt_lib_testlib_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_testlib_private.pri'.
+    Trying pattern rule with stem 'qt_lib_testlib_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_testlib_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets.pri'.
+    Trying pattern rule with stem 'qt_lib_widgets.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets.pri,v'.
+    Trying pattern rule with stem 'qt_lib_widgets.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_widgets.pri,v'.
+    Trying pattern rule with stem 'qt_lib_widgets.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_widgets.pri'.
+    Trying pattern rule with stem 'qt_lib_widgets.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_widgets.pri'.
+    Trying pattern rule with stem 'qt_lib_widgets.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_widgets.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets_private.pri'.
+    Trying pattern rule with stem 'qt_lib_widgets_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_widgets_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_widgets_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_widgets_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_widgets_private.pri'.
+    Trying pattern rule with stem 'qt_lib_widgets_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_widgets_private.pri'.
+    Trying pattern rule with stem 'qt_lib_widgets_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_widgets_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml.pri'.
+    Trying pattern rule with stem 'qt_lib_xml.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml.pri,v'.
+    Trying pattern rule with stem 'qt_lib_xml.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_xml.pri,v'.
+    Trying pattern rule with stem 'qt_lib_xml.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_xml.pri'.
+    Trying pattern rule with stem 'qt_lib_xml.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_xml.pri'.
+    Trying pattern rule with stem 'qt_lib_xml.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_xml.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml_private.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml_private.pri'.
+    Trying pattern rule with stem 'qt_lib_xml_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_xml_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_xml_private.pri,v'.
+    Trying pattern rule with stem 'qt_lib_xml_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_lib_xml_private.pri'.
+    Trying pattern rule with stem 'qt_lib_xml_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_lib_xml_private.pri'.
+    Trying pattern rule with stem 'qt_lib_xml_private.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_lib_xml_private.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml_private.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml_private.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml_private.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml_private.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qcertonlybackend.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qcertonlybackend.pri'.
+    Trying pattern rule with stem 'qt_plugin_qcertonlybackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qcertonlybackend.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qcertonlybackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qcertonlybackend.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qcertonlybackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qcertonlybackend.pri'.
+    Trying pattern rule with stem 'qt_plugin_qcertonlybackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qcertonlybackend.pri'.
+    Trying pattern rule with stem 'qt_plugin_qcertonlybackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qcertonlybackend.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qcertonlybackend.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qcertonlybackend.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qcertonlybackend.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qcertonlybackend.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qdirect2d.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qdirect2d.pri'.
+    Trying pattern rule with stem 'qt_plugin_qdirect2d.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qdirect2d.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qdirect2d.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qdirect2d.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qdirect2d.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qdirect2d.pri'.
+    Trying pattern rule with stem 'qt_plugin_qdirect2d.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qdirect2d.pri'.
+    Trying pattern rule with stem 'qt_plugin_qdirect2d.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qdirect2d.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qdirect2d.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qdirect2d.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qdirect2d.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qdirect2d.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qgif.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qgif.pri'.
+    Trying pattern rule with stem 'qt_plugin_qgif.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qgif.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qgif.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qgif.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qgif.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qgif.pri'.
+    Trying pattern rule with stem 'qt_plugin_qgif.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qgif.pri'.
+    Trying pattern rule with stem 'qt_plugin_qgif.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qgif.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qgif.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qgif.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qgif.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qgif.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qico.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qico.pri'.
+    Trying pattern rule with stem 'qt_plugin_qico.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qico.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qico.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qico.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qico.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qico.pri'.
+    Trying pattern rule with stem 'qt_plugin_qico.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qico.pri'.
+    Trying pattern rule with stem 'qt_plugin_qico.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qico.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qico.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qico.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qico.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qico.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qjpeg.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qjpeg.pri'.
+    Trying pattern rule with stem 'qt_plugin_qjpeg.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qjpeg.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qjpeg.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qjpeg.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qjpeg.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qjpeg.pri'.
+    Trying pattern rule with stem 'qt_plugin_qjpeg.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qjpeg.pri'.
+    Trying pattern rule with stem 'qt_plugin_qjpeg.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qjpeg.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qjpeg.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qjpeg.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qjpeg.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qjpeg.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qminimal.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qminimal.pri'.
+    Trying pattern rule with stem 'qt_plugin_qminimal.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qminimal.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qminimal.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qminimal.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qminimal.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qminimal.pri'.
+    Trying pattern rule with stem 'qt_plugin_qminimal.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qminimal.pri'.
+    Trying pattern rule with stem 'qt_plugin_qminimal.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qminimal.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qminimal.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qminimal.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qminimal.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qminimal.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qmodernwindowsstyle.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qmodernwindowsstyle.pri'.
+    Trying pattern rule with stem 'qt_plugin_qmodernwindowsstyle.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qmodernwindowsstyle.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qmodernwindowsstyle.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qmodernwindowsstyle.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qmodernwindowsstyle.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qmodernwindowsstyle.pri'.
+    Trying pattern rule with stem 'qt_plugin_qmodernwindowsstyle.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qmodernwindowsstyle.pri'.
+    Trying pattern rule with stem 'qt_plugin_qmodernwindowsstyle.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qmodernwindowsstyle.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qmodernwindowsstyle.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qmodernwindowsstyle.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qmodernwindowsstyle.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qmodernwindowsstyle.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qnetworklistmanager.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qnetworklistmanager.pri'.
+    Trying pattern rule with stem 'qt_plugin_qnetworklistmanager.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qnetworklistmanager.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qnetworklistmanager.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qnetworklistmanager.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qnetworklistmanager.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qnetworklistmanager.pri'.
+    Trying pattern rule with stem 'qt_plugin_qnetworklistmanager.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qnetworklistmanager.pri'.
+    Trying pattern rule with stem 'qt_plugin_qnetworklistmanager.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qnetworklistmanager.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qnetworklistmanager.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qnetworklistmanager.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qnetworklistmanager.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qnetworklistmanager.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qoffscreen.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qoffscreen.pri'.
+    Trying pattern rule with stem 'qt_plugin_qoffscreen.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qoffscreen.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qoffscreen.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qoffscreen.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qoffscreen.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qoffscreen.pri'.
+    Trying pattern rule with stem 'qt_plugin_qoffscreen.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qoffscreen.pri'.
+    Trying pattern rule with stem 'qt_plugin_qoffscreen.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qoffscreen.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qoffscreen.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qoffscreen.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qoffscreen.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qoffscreen.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qopensslbackend.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qopensslbackend.pri'.
+    Trying pattern rule with stem 'qt_plugin_qopensslbackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qopensslbackend.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qopensslbackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qopensslbackend.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qopensslbackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qopensslbackend.pri'.
+    Trying pattern rule with stem 'qt_plugin_qopensslbackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qopensslbackend.pri'.
+    Trying pattern rule with stem 'qt_plugin_qopensslbackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qopensslbackend.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qopensslbackend.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qopensslbackend.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qopensslbackend.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qopensslbackend.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qschannelbackend.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qschannelbackend.pri'.
+    Trying pattern rule with stem 'qt_plugin_qschannelbackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qschannelbackend.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qschannelbackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qschannelbackend.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qschannelbackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qschannelbackend.pri'.
+    Trying pattern rule with stem 'qt_plugin_qschannelbackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qschannelbackend.pri'.
+    Trying pattern rule with stem 'qt_plugin_qschannelbackend.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qschannelbackend.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qschannelbackend.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qschannelbackend.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qschannelbackend.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qschannelbackend.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlite.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlite.pri'.
+    Trying pattern rule with stem 'qt_plugin_qsqlite.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlite.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qsqlite.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qsqlite.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qsqlite.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qsqlite.pri'.
+    Trying pattern rule with stem 'qt_plugin_qsqlite.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qsqlite.pri'.
+    Trying pattern rule with stem 'qt_plugin_qsqlite.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qsqlite.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlite.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlite.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlite.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlite.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlmysql.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlmysql.pri'.
+    Trying pattern rule with stem 'qt_plugin_qsqlmysql.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlmysql.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qsqlmysql.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qsqlmysql.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qsqlmysql.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qsqlmysql.pri'.
+    Trying pattern rule with stem 'qt_plugin_qsqlmysql.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qsqlmysql.pri'.
+    Trying pattern rule with stem 'qt_plugin_qsqlmysql.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qsqlmysql.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlmysql.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlmysql.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlmysql.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlmysql.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlodbc.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlodbc.pri'.
+    Trying pattern rule with stem 'qt_plugin_qsqlodbc.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlodbc.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qsqlodbc.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qsqlodbc.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qsqlodbc.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qsqlodbc.pri'.
+    Trying pattern rule with stem 'qt_plugin_qsqlodbc.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qsqlodbc.pri'.
+    Trying pattern rule with stem 'qt_plugin_qsqlodbc.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qsqlodbc.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlodbc.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlodbc.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlodbc.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlodbc.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qtuiotouchplugin.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qtuiotouchplugin.pri'.
+    Trying pattern rule with stem 'qt_plugin_qtuiotouchplugin.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qtuiotouchplugin.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qtuiotouchplugin.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qtuiotouchplugin.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qtuiotouchplugin.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qtuiotouchplugin.pri'.
+    Trying pattern rule with stem 'qt_plugin_qtuiotouchplugin.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qtuiotouchplugin.pri'.
+    Trying pattern rule with stem 'qt_plugin_qtuiotouchplugin.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qtuiotouchplugin.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qtuiotouchplugin.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qtuiotouchplugin.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qtuiotouchplugin.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qtuiotouchplugin.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qwindows.pri'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qwindows.pri'.
+    Trying pattern rule with stem 'qt_plugin_qwindows.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qwindows.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qwindows.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qwindows.pri,v'.
+    Trying pattern rule with stem 'qt_plugin_qwindows.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/RCS/qt_plugin_qwindows.pri'.
+    Trying pattern rule with stem 'qt_plugin_qwindows.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/s.qt_plugin_qwindows.pri'.
+    Trying pattern rule with stem 'qt_plugin_qwindows.pri'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/SCCS/s.qt_plugin_qwindows.pri'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qwindows.pri'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qwindows.pri'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qwindows.pri' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qwindows.pri'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_functions.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_functions.prf'.
+    Trying pattern rule with stem 'qt_functions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_functions.prf,v'.
+    Trying pattern rule with stem 'qt_functions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/qt_functions.prf,v'.
+    Trying pattern rule with stem 'qt_functions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/qt_functions.prf'.
+    Trying pattern rule with stem 'qt_functions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.qt_functions.prf'.
+    Trying pattern rule with stem 'qt_functions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.qt_functions.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_functions.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_functions.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_functions.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_functions.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_config.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_config.prf'.
+    Trying pattern rule with stem 'qt_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_config.prf,v'.
+    Trying pattern rule with stem 'qt_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/qt_config.prf,v'.
+    Trying pattern rule with stem 'qt_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/qt_config.prf'.
+    Trying pattern rule with stem 'qt_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.qt_config.prf'.
+    Trying pattern rule with stem 'qt_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.qt_config.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_config.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_config.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_config.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_config.prf'.
+   Pruning file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/qmake.conf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_post.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_post.prf'.
+    Trying pattern rule with stem 'spec_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_post.prf,v'.
+    Trying pattern rule with stem 'spec_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/spec_post.prf,v'.
+    Trying pattern rule with stem 'spec_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/spec_post.prf'.
+    Trying pattern rule with stem 'spec_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.spec_post.prf'.
+    Trying pattern rule with stem 'spec_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.spec_post.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_post.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_post.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_post.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_post.prf'.
+   Considering target file '.qmake.stash'.
+    Looking for an implicit rule for '.qmake.stash'.
+    Trying pattern rule with stem '.qmake.stash'.
+    Trying implicit prerequisite '.qmake.stash,v'.
+    Trying pattern rule with stem '.qmake.stash'.
+    Trying implicit prerequisite 'RCS/.qmake.stash,v'.
+    Trying pattern rule with stem '.qmake.stash'.
+    Trying implicit prerequisite 'RCS/.qmake.stash'.
+    Trying pattern rule with stem '.qmake.stash'.
+    Trying implicit prerequisite 's..qmake.stash'.
+    Trying pattern rule with stem '.qmake.stash'.
+    Trying implicit prerequisite 'SCCS/s..qmake.stash'.
+    No implicit rule found for '.qmake.stash'.
+    Finished prerequisites of target file '.qmake.stash'.
+   No recipe for '.qmake.stash' and no prerequisites actually changed.
+   No need to remake target '.qmake.stash'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds.prf'.
+    Trying pattern rule with stem 'exclusive_builds.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds.prf,v'.
+    Trying pattern rule with stem 'exclusive_builds.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/exclusive_builds.prf,v'.
+    Trying pattern rule with stem 'exclusive_builds.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/exclusive_builds.prf'.
+    Trying pattern rule with stem 'exclusive_builds.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.exclusive_builds.prf'.
+    Trying pattern rule with stem 'exclusive_builds.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.exclusive_builds.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/toolchain.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/toolchain.prf'.
+    Trying pattern rule with stem 'toolchain.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/toolchain.prf,v'.
+    Trying pattern rule with stem 'toolchain.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/toolchain.prf,v'.
+    Trying pattern rule with stem 'toolchain.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/toolchain.prf'.
+    Trying pattern rule with stem 'toolchain.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.toolchain.prf'.
+    Trying pattern rule with stem 'toolchain.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.toolchain.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/toolchain.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/toolchain.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/toolchain.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/toolchain.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_pre.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_pre.prf'.
+    Trying pattern rule with stem 'default_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_pre.prf,v'.
+    Trying pattern rule with stem 'default_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/default_pre.prf,v'.
+    Trying pattern rule with stem 'default_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/default_pre.prf'.
+    Trying pattern rule with stem 'default_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.default_pre.prf'.
+    Trying pattern rule with stem 'default_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.default_pre.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_pre.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_pre.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_pre.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_pre.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/default_pre.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/default_pre.prf'.
+    Trying pattern rule with stem 'default_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/default_pre.prf,v'.
+    Trying pattern rule with stem 'default_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/RCS/default_pre.prf,v'.
+    Trying pattern rule with stem 'default_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/RCS/default_pre.prf'.
+    Trying pattern rule with stem 'default_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/s.default_pre.prf'.
+    Trying pattern rule with stem 'default_pre.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/SCCS/s.default_pre.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/default_pre.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/default_pre.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/default_pre.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/default_pre.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resolve_config.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resolve_config.prf'.
+    Trying pattern rule with stem 'resolve_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resolve_config.prf,v'.
+    Trying pattern rule with stem 'resolve_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/resolve_config.prf,v'.
+    Trying pattern rule with stem 'resolve_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/resolve_config.prf'.
+    Trying pattern rule with stem 'resolve_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.resolve_config.prf'.
+    Trying pattern rule with stem 'resolve_config.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.resolve_config.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resolve_config.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resolve_config.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resolve_config.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resolve_config.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds_post.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds_post.prf'.
+    Trying pattern rule with stem 'exclusive_builds_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds_post.prf,v'.
+    Trying pattern rule with stem 'exclusive_builds_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/exclusive_builds_post.prf,v'.
+    Trying pattern rule with stem 'exclusive_builds_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/exclusive_builds_post.prf'.
+    Trying pattern rule with stem 'exclusive_builds_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.exclusive_builds_post.prf'.
+    Trying pattern rule with stem 'exclusive_builds_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.exclusive_builds_post.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds_post.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds_post.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds_post.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds_post.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_post.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_post.prf'.
+    Trying pattern rule with stem 'default_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_post.prf,v'.
+    Trying pattern rule with stem 'default_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/default_post.prf,v'.
+    Trying pattern rule with stem 'default_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/default_post.prf'.
+    Trying pattern rule with stem 'default_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.default_post.prf'.
+    Trying pattern rule with stem 'default_post.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.default_post.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_post.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_post.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_post.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_post.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/precompile_header.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/precompile_header.prf'.
+    Trying pattern rule with stem 'precompile_header.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/precompile_header.prf,v'.
+    Trying pattern rule with stem 'precompile_header.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/precompile_header.prf,v'.
+    Trying pattern rule with stem 'precompile_header.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/precompile_header.prf'.
+    Trying pattern rule with stem 'precompile_header.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.precompile_header.prf'.
+    Trying pattern rule with stem 'precompile_header.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.precompile_header.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/precompile_header.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/precompile_header.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/precompile_header.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/precompile_header.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/warn_on.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/warn_on.prf'.
+    Trying pattern rule with stem 'warn_on.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/warn_on.prf,v'.
+    Trying pattern rule with stem 'warn_on.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/warn_on.prf,v'.
+    Trying pattern rule with stem 'warn_on.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/warn_on.prf'.
+    Trying pattern rule with stem 'warn_on.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.warn_on.prf'.
+    Trying pattern rule with stem 'warn_on.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.warn_on.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/warn_on.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/warn_on.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/warn_on.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/warn_on.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/permissions.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/permissions.prf'.
+    Trying pattern rule with stem 'permissions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/permissions.prf,v'.
+    Trying pattern rule with stem 'permissions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/permissions.prf,v'.
+    Trying pattern rule with stem 'permissions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/permissions.prf'.
+    Trying pattern rule with stem 'permissions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.permissions.prf'.
+    Trying pattern rule with stem 'permissions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.permissions.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/permissions.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/permissions.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/permissions.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/permissions.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt.prf'.
+    Trying pattern rule with stem 'qt.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt.prf,v'.
+    Trying pattern rule with stem 'qt.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/qt.prf,v'.
+    Trying pattern rule with stem 'qt.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/qt.prf'.
+    Trying pattern rule with stem 'qt.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.qt.prf'.
+    Trying pattern rule with stem 'qt.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.qt.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources_functions.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources_functions.prf'.
+    Trying pattern rule with stem 'resources_functions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources_functions.prf,v'.
+    Trying pattern rule with stem 'resources_functions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/resources_functions.prf,v'.
+    Trying pattern rule with stem 'resources_functions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/resources_functions.prf'.
+    Trying pattern rule with stem 'resources_functions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.resources_functions.prf'.
+    Trying pattern rule with stem 'resources_functions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.resources_functions.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources_functions.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources_functions.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources_functions.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources_functions.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources.prf'.
+    Trying pattern rule with stem 'resources.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources.prf,v'.
+    Trying pattern rule with stem 'resources.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/resources.prf,v'.
+    Trying pattern rule with stem 'resources.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/resources.prf'.
+    Trying pattern rule with stem 'resources.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.resources.prf'.
+    Trying pattern rule with stem 'resources.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.resources.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/moc.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/moc.prf'.
+    Trying pattern rule with stem 'moc.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/moc.prf,v'.
+    Trying pattern rule with stem 'moc.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/moc.prf,v'.
+    Trying pattern rule with stem 'moc.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/moc.prf'.
+    Trying pattern rule with stem 'moc.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.moc.prf'.
+    Trying pattern rule with stem 'moc.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.moc.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/moc.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/moc.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/moc.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/moc.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/opengl.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/opengl.prf'.
+    Trying pattern rule with stem 'opengl.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/opengl.prf,v'.
+    Trying pattern rule with stem 'opengl.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/RCS/opengl.prf,v'.
+    Trying pattern rule with stem 'opengl.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/RCS/opengl.prf'.
+    Trying pattern rule with stem 'opengl.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/s.opengl.prf'.
+    Trying pattern rule with stem 'opengl.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/SCCS/s.opengl.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/opengl.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/opengl.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/opengl.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/opengl.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/uic.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/uic.prf'.
+    Trying pattern rule with stem 'uic.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/uic.prf,v'.
+    Trying pattern rule with stem 'uic.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/uic.prf,v'.
+    Trying pattern rule with stem 'uic.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/uic.prf'.
+    Trying pattern rule with stem 'uic.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.uic.prf'.
+    Trying pattern rule with stem 'uic.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.uic.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/uic.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/uic.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/uic.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/uic.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qmake_use.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qmake_use.prf'.
+    Trying pattern rule with stem 'qmake_use.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qmake_use.prf,v'.
+    Trying pattern rule with stem 'qmake_use.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/qmake_use.prf,v'.
+    Trying pattern rule with stem 'qmake_use.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/qmake_use.prf'.
+    Trying pattern rule with stem 'qmake_use.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.qmake_use.prf'.
+    Trying pattern rule with stem 'qmake_use.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.qmake_use.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qmake_use.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qmake_use.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qmake_use.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qmake_use.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/file_copies.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/file_copies.prf'.
+    Trying pattern rule with stem 'file_copies.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/file_copies.prf,v'.
+    Trying pattern rule with stem 'file_copies.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/file_copies.prf,v'.
+    Trying pattern rule with stem 'file_copies.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/file_copies.prf'.
+    Trying pattern rule with stem 'file_copies.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.file_copies.prf'.
+    Trying pattern rule with stem 'file_copies.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.file_copies.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/file_copies.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/file_copies.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/file_copies.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/file_copies.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows.prf'.
+    Trying pattern rule with stem 'windows.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows.prf,v'.
+    Trying pattern rule with stem 'windows.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/RCS/windows.prf,v'.
+    Trying pattern rule with stem 'windows.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/RCS/windows.prf'.
+    Trying pattern rule with stem 'windows.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/s.windows.prf'.
+    Trying pattern rule with stem 'windows.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/SCCS/s.windows.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/testcase_targets.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/testcase_targets.prf'.
+    Trying pattern rule with stem 'testcase_targets.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/testcase_targets.prf,v'.
+    Trying pattern rule with stem 'testcase_targets.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/testcase_targets.prf,v'.
+    Trying pattern rule with stem 'testcase_targets.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/testcase_targets.prf'.
+    Trying pattern rule with stem 'testcase_targets.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.testcase_targets.prf'.
+    Trying pattern rule with stem 'testcase_targets.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.testcase_targets.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/testcase_targets.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/testcase_targets.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/testcase_targets.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/testcase_targets.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exceptions.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exceptions.prf'.
+    Trying pattern rule with stem 'exceptions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exceptions.prf,v'.
+    Trying pattern rule with stem 'exceptions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/exceptions.prf,v'.
+    Trying pattern rule with stem 'exceptions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/exceptions.prf'.
+    Trying pattern rule with stem 'exceptions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.exceptions.prf'.
+    Trying pattern rule with stem 'exceptions.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.exceptions.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exceptions.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exceptions.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exceptions.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exceptions.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/yacc.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/yacc.prf'.
+    Trying pattern rule with stem 'yacc.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/yacc.prf,v'.
+    Trying pattern rule with stem 'yacc.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/yacc.prf,v'.
+    Trying pattern rule with stem 'yacc.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/yacc.prf'.
+    Trying pattern rule with stem 'yacc.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.yacc.prf'.
+    Trying pattern rule with stem 'yacc.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.yacc.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/yacc.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/yacc.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/yacc.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/yacc.prf'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/lex.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/lex.prf'.
+    Trying pattern rule with stem 'lex.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/lex.prf,v'.
+    Trying pattern rule with stem 'lex.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/lex.prf,v'.
+    Trying pattern rule with stem 'lex.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/lex.prf'.
+    Trying pattern rule with stem 'lex.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.lex.prf'.
+    Trying pattern rule with stem 'lex.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.lex.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/lex.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/lex.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/lex.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/lex.prf'.
+   Pruning file 'machinimaker.pro'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/qmodernwindowsstyle.prl'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/qmodernwindowsstyle.prl'.
+    Trying pattern rule with stem 'qmodernwindowsstyle.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/qmodernwindowsstyle.prl,v'.
+    Trying pattern rule with stem 'qmodernwindowsstyle.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/RCS/qmodernwindowsstyle.prl,v'.
+    Trying pattern rule with stem 'qmodernwindowsstyle.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/RCS/qmodernwindowsstyle.prl'.
+    Trying pattern rule with stem 'qmodernwindowsstyle.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/s.qmodernwindowsstyle.prl'.
+    Trying pattern rule with stem 'qmodernwindowsstyle.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/SCCS/s.qmodernwindowsstyle.prl'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/qmodernwindowsstyle.prl'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/qmodernwindowsstyle.prl'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/qmodernwindowsstyle.prl' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/qmodernwindowsstyle.prl'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/qwindows.prl'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/qwindows.prl'.
+    Trying pattern rule with stem 'qwindows.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/qwindows.prl,v'.
+    Trying pattern rule with stem 'qwindows.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/RCS/qwindows.prl,v'.
+    Trying pattern rule with stem 'qwindows.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/RCS/qwindows.prl'.
+    Trying pattern rule with stem 'qwindows.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/s.qwindows.prl'.
+    Trying pattern rule with stem 'qwindows.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/SCCS/s.qwindows.prl'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/qwindows.prl'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/qwindows.prl'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/qwindows.prl' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/qwindows.prl'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qgif.prl'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qgif.prl'.
+    Trying pattern rule with stem 'qgif.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qgif.prl,v'.
+    Trying pattern rule with stem 'qgif.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/RCS/qgif.prl,v'.
+    Trying pattern rule with stem 'qgif.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/RCS/qgif.prl'.
+    Trying pattern rule with stem 'qgif.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/s.qgif.prl'.
+    Trying pattern rule with stem 'qgif.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/SCCS/s.qgif.prl'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qgif.prl'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qgif.prl'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qgif.prl' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qgif.prl'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qico.prl'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qico.prl'.
+    Trying pattern rule with stem 'qico.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qico.prl,v'.
+    Trying pattern rule with stem 'qico.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/RCS/qico.prl,v'.
+    Trying pattern rule with stem 'qico.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/RCS/qico.prl'.
+    Trying pattern rule with stem 'qico.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/s.qico.prl'.
+    Trying pattern rule with stem 'qico.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/SCCS/s.qico.prl'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qico.prl'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qico.prl'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qico.prl' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qico.prl'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qjpeg.prl'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qjpeg.prl'.
+    Trying pattern rule with stem 'qjpeg.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qjpeg.prl,v'.
+    Trying pattern rule with stem 'qjpeg.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/RCS/qjpeg.prl,v'.
+    Trying pattern rule with stem 'qjpeg.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/RCS/qjpeg.prl'.
+    Trying pattern rule with stem 'qjpeg.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/s.qjpeg.prl'.
+    Trying pattern rule with stem 'qjpeg.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/SCCS/s.qjpeg.prl'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qjpeg.prl'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qjpeg.prl'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qjpeg.prl' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qjpeg.prl'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Widgets.prl'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Widgets.prl'.
+    Trying pattern rule with stem 'Qt6Widgets.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Widgets.prl,v'.
+    Trying pattern rule with stem 'Qt6Widgets.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/RCS/Qt6Widgets.prl,v'.
+    Trying pattern rule with stem 'Qt6Widgets.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/RCS/Qt6Widgets.prl'.
+    Trying pattern rule with stem 'Qt6Widgets.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/s.Qt6Widgets.prl'.
+    Trying pattern rule with stem 'Qt6Widgets.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/SCCS/s.Qt6Widgets.prl'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Widgets.prl'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Widgets.prl'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Widgets.prl' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Widgets.prl'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Gui.prl'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Gui.prl'.
+    Trying pattern rule with stem 'Qt6Gui.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Gui.prl,v'.
+    Trying pattern rule with stem 'Qt6Gui.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/RCS/Qt6Gui.prl,v'.
+    Trying pattern rule with stem 'Qt6Gui.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/RCS/Qt6Gui.prl'.
+    Trying pattern rule with stem 'Qt6Gui.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/s.Qt6Gui.prl'.
+    Trying pattern rule with stem 'Qt6Gui.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/SCCS/s.Qt6Gui.prl'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Gui.prl'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Gui.prl'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Gui.prl' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Gui.prl'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Core.prl'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Core.prl'.
+    Trying pattern rule with stem 'Qt6Core.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Core.prl,v'.
+    Trying pattern rule with stem 'Qt6Core.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/RCS/Qt6Core.prl,v'.
+    Trying pattern rule with stem 'Qt6Core.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/RCS/Qt6Core.prl'.
+    Trying pattern rule with stem 'Qt6Core.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/s.Qt6Core.prl'.
+    Trying pattern rule with stem 'Qt6Core.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/SCCS/s.Qt6Core.prl'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Core.prl'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Core.prl'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Core.prl' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Core.prl'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6EntryPoint.prl'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6EntryPoint.prl'.
+    Trying pattern rule with stem 'Qt6EntryPoint.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6EntryPoint.prl,v'.
+    Trying pattern rule with stem 'Qt6EntryPoint.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/RCS/Qt6EntryPoint.prl,v'.
+    Trying pattern rule with stem 'Qt6EntryPoint.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/RCS/Qt6EntryPoint.prl'.
+    Trying pattern rule with stem 'Qt6EntryPoint.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/s.Qt6EntryPoint.prl'.
+    Trying pattern rule with stem 'Qt6EntryPoint.prl'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/SCCS/s.Qt6EntryPoint.prl'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6EntryPoint.prl'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6EntryPoint.prl'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6EntryPoint.prl' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6EntryPoint.prl'.
+   Considering target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/build_pass.prf'.
+    Looking for an implicit rule for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/build_pass.prf'.
+    Trying pattern rule with stem 'build_pass.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/build_pass.prf,v'.
+    Trying pattern rule with stem 'build_pass.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/build_pass.prf,v'.
+    Trying pattern rule with stem 'build_pass.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/RCS/build_pass.prf'.
+    Trying pattern rule with stem 'build_pass.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/s.build_pass.prf'.
+    Trying pattern rule with stem 'build_pass.prf'.
+    Trying implicit prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/SCCS/s.build_pass.prf'.
+    No implicit rule found for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/build_pass.prf'.
+    Finished prerequisites of target file '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/build_pass.prf'.
+   No recipe for '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/build_pass.prf' and no prerequisites actually changed.
+   No need to remake target '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/build_pass.prf'.
+   Considering target file 'appIcons.qrc'.
+    Looking for an implicit rule for 'appIcons.qrc'.
+    Trying pattern rule with stem 'appIcons.qrc'.
+    Trying implicit prerequisite 'appIcons.qrc,v'.
+    Trying pattern rule with stem 'appIcons.qrc'.
+    Trying implicit prerequisite 'RCS/appIcons.qrc,v'.
+    Trying pattern rule with stem 'appIcons.qrc'.
+    Trying implicit prerequisite 'RCS/appIcons.qrc'.
+    Trying pattern rule with stem 'appIcons.qrc'.
+    Trying implicit prerequisite 's.appIcons.qrc'.
+    Trying pattern rule with stem 'appIcons.qrc'.
+    Trying implicit prerequisite 'SCCS/s.appIcons.qrc'.
+    No implicit rule found for 'appIcons.qrc'.
+    Finished prerequisites of target file 'appIcons.qrc'.
+   No recipe for 'appIcons.qrc' and no prerequisites actually changed.
+   No need to remake target 'appIcons.qrc'.
+  Finished prerequisites of target file 'Makefile'.
+  Prerequisite 'machinimaker.pro' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/qmake.conf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_pre.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qdevice.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/device_config.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/sanitize.conf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/gcc-base.conf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-base.conf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows_vulkan_sdk.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-vulkan.conf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/g++-win32.conf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/common/windows-desktop.conf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/qconfig.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_concurrent_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_core_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_devicediscovery_support_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_entrypoint_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_example_icons_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_examples_asset_downloader_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_fb_support_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_gui_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_network_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_opengl_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_openglwidgets_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_printsupport_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_sql_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testinternals_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_testlib_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_widgets_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_lib_xml_private.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qcertonlybackend.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qdirect2d.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qgif.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qico.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qjpeg.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qminimal.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qmodernwindowsstyle.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qnetworklistmanager.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qoffscreen.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qopensslbackend.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qschannelbackend.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlite.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlmysql.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qsqlodbc.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qtuiotouchplugin.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/modules/qt_plugin_qwindows.pri' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_functions.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt_config.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/win32-g++/qmake.conf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/spec_post.prf' is older than target 'Makefile'.
+  Prerequisite '.qmake.stash' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/toolchain.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_pre.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/default_pre.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resolve_config.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exclusive_builds_post.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/default_post.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/precompile_header.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/warn_on.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/permissions.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qt.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources_functions.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/resources.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/moc.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/opengl.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/uic.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/qmake_use.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/file_copies.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/win32/windows.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/testcase_targets.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/exceptions.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/yacc.prf' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/lex.prf' is older than target 'Makefile'.
+  Prerequisite 'machinimaker.pro' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/styles/qmodernwindowsstyle.prl' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/platforms/qwindows.prl' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qgif.prl' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qico.prl' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/plugins/imageformats/qjpeg.prl' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Widgets.prl' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Gui.prl' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6Core.prl' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/lib/Qt6EntryPoint.prl' is older than target 'Makefile'.
+  Prerequisite '../../mxe/usr/x86_64-w64-mingw32.static/qt6/mkspecs/features/build_pass.prf' is older than target 'Makefile'.
+  Prerequisite 'appIcons.qrc' is older than target 'Makefile'.
+ No need to remake target 'Makefile'.
+Updating goal targets....
+Considering target file 'undefined reference'.
+ File 'undefined reference' does not exist.
+ Looking for an implicit rule for 'undefined reference'.
+ Trying pattern rule with stem 'undefined reference'.
+ Trying implicit prerequisite 'undefined reference,v'.
+ Trying pattern rule with stem 'undefined reference'.
+ Trying implicit prerequisite 'RCS/undefined reference,v'.
+ Trying pattern rule with stem 'undefined reference'.
+ Trying implicit prerequisite 'RCS/undefined reference'.
+ Trying pattern rule with stem 'undefined reference'.
+ Trying implicit prerequisite 's.undefined reference'.
+ Trying pattern rule with stem 'undefined reference'.
+ Trying implicit prerequisite 'SCCS/s.undefined reference'.
+ No implicit rule found for 'undefined reference'.
+ Finished prerequisites of target file 'undefined reference'.
+Must remake target 'undefined reference'.
