@@ -3,6 +3,7 @@
 #include "messagedialog.h"
 #include "queuewindow.h"
 #include "messagequeue.h"
+#include "help.h"
 
 #include <QApplication>
 #include <QStyle>
@@ -31,6 +32,7 @@ machinimaker::machinimaker(QWidget *parent)
     connect(ui->actionopen, &QAction::triggered, this, &machinimaker::on_actionShowQueue_Triggered);
     connect(m_nextMessageShortcut, &QShortcut::activated, this, &machinimaker::printQueuedMessage);
     connect(ui->actioncut, &QAction::triggered, this, &machinimaker::clearWindow);
+    connect(ui->actionhelp, &QAction::triggered, this, &machinimaker::on_Help_Pressed);
 }
 
 machinimaker::~machinimaker()
@@ -62,6 +64,12 @@ void machinimaker::openMessageDialog()
     //qDebug() << "on_actionOpenMessageDialog_triggered() slot was called.";
     MessageDialog dialog(this);
     dialog.exec();
+}
+
+void machinimaker::on_Help_Pressed()
+{
+    help dia(this);
+    dia.exec();
 }
 
 void machinimaker::printQueuedMessage()

@@ -22,13 +22,16 @@ QT+=core
 
 # Input
 HEADERS += machinimaker.h \
+           help.h \
            message.h \
            messagedialog.h \
            messagequeue.h \
            queuemodel.h \
            queuewindow.h 
-FORMS += machinimaker.ui MessageDialog.ui QueueWindow.ui
+FORMS += machinimaker.ui MessageDialog.ui QueueWindow.ui \
+    help.ui
 SOURCES += machinimaker.cpp \
+           help.cpp \
            main.cpp \
            messagedialog.cpp \
            messagequeue.cpp \

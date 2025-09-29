@@ -404,26 +404,48 @@
     <property name="title">
      <string>File</string>
     </property>
+    <addaction name="actionNew_2"/>
+    <addaction name="actionOpen"/>
+    <addaction name="actionOpen_Recent"/>
+    <addaction name="separator"/>
+    <addaction name="actionSave_2"/>
+    <addaction name="separator"/>
+    <addaction name="actionClose"/>
+    <addaction name="actionQuit"/>
    </widget>
    <widget class="QMenu" name="menuEdit">
     <property name="title">
      <string>Edit</string>
     </property>
-   </widget>
-   <widget class="QMenu" name="menuView">
-    <property name="title">
-     <string>View</string>
-    </property>
-   </widget>
-   <widget class="QMenu" name="menuOptions">
-    <property name="title">
-     <string>Options</string>
-    </property>
+    <widget class="QMenu" name="menuUndo_History">
+     <property name="title">
+      <string>Undo History</string>
+     </property>
+     <addaction name="actionOpen_Project"/>
+    </widget>
+    <addaction name="actionUndo"/>
+    <addaction name="actionRedo"/>
+    <addaction name="menuUndo_History"/>
+    <addaction name="separator"/>
+    <addaction name="actionRepeat_Last_Operation"/>
+    <addaction name="actionRepeat_Last"/>
+    <addaction name="actionRepeat_History"/>
+    <addaction name="separator"/>
+    <addaction name="actionMenu_Search"/>
+    <addaction name="separator"/>
+    <addaction name="actionPreferences"/>
    </widget>
    <widget class="QMenu" name="menuLayout">
     <property name="title">
-     <string>Layout</string>
+     <string>Render</string>
     </property>
+    <addaction name="actionRender_Image"/>
+    <addaction name="actionRender_Animation"/>
+    <addaction name="separator"/>
+    <addaction name="actionRender_Audio"/>
+    <addaction name="separator"/>
+    <addaction name="actionView_Render"/>
+    <addaction name="actionView_Animation"/>
    </widget>
    <widget class="QMenu" name="menuWindow">
     <property name="title">
@@ -431,19 +453,18 @@
     </property>
     <addaction name="actionShowQueue"/>
     <addaction name="actionOpenMessageDialog"/>
-   </widget>
-   <widget class="QMenu" name="menuHelp">
-    <property name="title">
-     <string>Help</string>
-    </property>
+    <addaction name="separator"/>
+    <addaction name="actionToggle_Window_Fullscreen"/>
+    <addaction name="separator"/>
+    <addaction name="actionNext_Workspace"/>
+    <addaction name="actionPrevious_Workspace"/>
+    <addaction name="separator"/>
+    <addaction name="actionSave_Screenshot"/>
    </widget>
    <addaction name="menuBeeboop"/>
    <addaction name="menuEdit"/>
-   <addaction name="menuView"/>
-   <addaction name="menuOptions"/>
    <addaction name="menuLayout"/>
    <addaction name="menuWindow"/>
-   <addaction name="menuHelp"/>
   </widget>
   <widget class="QToolBar" name="toolBar">
    <property name="windowTitle">
@@ -1304,12 +1325,157 @@ color:rgb(0,0,0);</string>
   </action>
   <action name="actionShowQueue">
    <property name="text">
-    <string>Queue</string>
+    <string>New Window</string>
    </property>
   </action>
   <action name="actionOpenMessageDialog">
    <property name="text">
-    <string>Add Message</string>
+    <string>New Main Window</string>
+   </property>
+  </action>
+  <action name="actionNew_2">
+   <property name="text">
+    <string>New</string>
+   </property>
+  </action>
+  <action name="actionOpen">
+   <property name="text">
+    <string>Open</string>
+   </property>
+  </action>
+  <action name="actionSave">
+   <property name="text">
+    <string>Save</string>
+   </property>
+  </action>
+  <action name="actionSave_As">
+   <property name="text">
+    <string>Save As</string>
+   </property>
+  </action>
+  <action name="actionOpen_Recent">
+   <property name="text">
+    <string>Open Recent</string>
+   </property>
+  </action>
+  <action name="actionSave_2">
+   <property name="text">
+    <string>Save</string>
+   </property>
+  </action>
+  <action name="actionClose">
+   <property name="text">
+    <string>Close</string>
+   </property>
+  </action>
+  <action name="actionQuit">
+   <property name="text">
+    <string>Quit</string>
+   </property>
+  </action>
+  <action name="actionUndo">
+   <property name="text">
+    <string>Undo</string>
+   </property>
+  </action>
+  <action name="actionRedo">
+   <property name="text">
+    <string>Redo</string>
+   </property>
+  </action>
+  <action name="actionCut">
+   <property name="text">
+    <string>Cut</string>
+   </property>
+  </action>
+  <action name="actionCopy">
+   <property name="text">
+    <string>Copy</string>
+   </property>
+  </action>
+  <action name="actionPaste">
+   <property name="text">
+    <string>Paste</string>
+   </property>
+  </action>
+  <action name="actionClear">
+   <property name="text">
+    <string>Preferences...</string>
+   </property>
+  </action>
+  <action name="actionOpen_Project">
+   <property name="text">
+    <string>Open Project</string>
+   </property>
+  </action>
+  <action name="actionRepeat_Last_Operation">
+   <property name="text">
+    <string>Repeat Last Operation</string>
+   </property>
+  </action>
+  <action name="actionRepeat_Last">
+   <property name="text">
+    <string>Repeat Last</string>
+   </property>
+  </action>
+  <action name="actionRepeat_History">
+   <property name="text">
+    <string>Repeat History</string>
+   </property>
+  </action>
+  <action name="actionMenu_Search">
+   <property name="text">
+    <string>Menu Search</string>
+   </property>
+  </action>
+  <action name="actionPreferences">
+   <property name="text">
+    <string>Preferences</string>
+   </property>
+  </action>
+  <action name="actionRender_Image">
+   <property name="text">
+    <string>Render Image</string>
+   </property>
+  </action>
+  <action name="actionRender_Animation">
+   <property name="text">
+    <string>Render Animation</string>
+   </property>
+  </action>
+  <action name="actionRender_Audio">
+   <property name="text">
+    <string>Render Audio</string>
+   </property>
+  </action>
+  <action name="actionView_Render">
+   <property name="text">
+    <string>View Render</string>
+   </property>
+  </action>
+  <action name="actionView_Animation">
+   <property name="text">
+    <string>View Animation</string>
+   </property>
+  </action>
+  <action name="actionToggle_Window_Fullscreen">
+   <property name="text">
+    <string>Toggle Window Fullscreen</string>
+   </property>
+  </action>
+  <action name="actionNext_Workspace">
+   <property name="text">
+    <string>Next Workspace</string>
+   </property>
+  </action>
+  <action name="actionPrevious_Workspace">
+   <property name="text">
+    <string>Previous Workspace</string>
+   </property>
+  </action>
+  <action name="actionSave_Screenshot">
+   <property name="text">
+    <string>Save Screenshot</string>
    </property>
   </action>
  </widget>

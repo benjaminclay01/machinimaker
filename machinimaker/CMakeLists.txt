@@ -32,7 +32,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         message.h
         messagequeue.h messagequeue.cpp
         queuewindow.h queuewindow.cpp
-
+	help.h help.cpp
         messagedialog.h messagedialog.cpp MessageDialog.ui
         QueueWindow.ui
 
